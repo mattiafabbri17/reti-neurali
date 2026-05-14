@@ -1,0 +1,14 @@
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\bin\Debug\net8.0\RetiNeurali.exe
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\bin\Debug\net8.0\RetiNeurali.deps.json
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\bin\Debug\net8.0\RetiNeurali.runtimeconfig.json
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\bin\Debug\net8.0\RetiNeurali.dll
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\bin\Debug\net8.0\RetiNeurali.pdb
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.AssemblyInfoInputs.cache
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.AssemblyInfo.cs
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.csproj.CoreCompileInputs.cache
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.dll
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\refint\RetiNeurali.dll
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.pdb
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\RetiNeurali.genruntimeconfig.cache
+C:\Users\mattia.fabbri.5h\source\repos\RetiNeurali\RetiNeurali\obj\Debug\net8.0\ref\RetiNeurali.dll
